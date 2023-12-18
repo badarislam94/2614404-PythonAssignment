@@ -1,0 +1,6 @@
+islam.py file contains the python code.
+islam_values file contains the values against alphabets 
+islam_tress file contain the names of which we need to generate abbrevaition
+islam_testcases file contain the testcases from example in the task. 
+
+Kindly make sure all these files are in same directory to avoid any lapses. 
